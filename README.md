@@ -1,8 +1,5 @@
 ## Hello there! :>
 
-<!--
-**tshamsrakhmanov/tshamsrakhmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 📫 Ю кэн рич ми бай: [телега](https://t.me/tshamsrakhmanov) [почта](t.shamsrakhmanov@gmail.com)
 - ⚡ Фан факт: знаю не мэйнстрим языкы кода типа PDL2 KRL AS (да, это всё промышленные роботы)
 - 👯 Куррент джоб: нагрузочное тестирование@PerformanceLab
