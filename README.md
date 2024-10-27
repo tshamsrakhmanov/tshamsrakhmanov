@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! :>
 
 <!--
 **tshamsrakhmanov/tshamsrakhmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 Ю кэн рич ми бай: [...](https://t.me/tshamsrakhmanov) [...](t.shamsrakhmanov@gmail.com)
+- ⚡ Фан факт: знаю не мэйнстрим языкы кода типа PDL2 KRL AS (да, это всё промышленные роботы)
+- 👯 Куррент джоб: нагрузочное тестирование@PerformanceLab
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tshamsrakhmanov&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tshamsrakhmanov&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tshamsrakhmanov&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tshamsrakhmanov&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tshamsrakhmanov&theme=default&utcOffset=8)
