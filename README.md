@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={tshamsrakhmanov}&theme={vue}&exclude={exclude}
